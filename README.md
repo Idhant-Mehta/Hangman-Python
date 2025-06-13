@@ -63,17 +63,5 @@ This project is a graphical implementation of the classic **Hangman game** using
 ## Future Enhancements
 - Add difficulty levels (easy, medium, hard).
 - Include a scoring system.
-- Provide hints for the selected word.
-
----
-
-## License
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
-
----
-
-## Contact
-For questions or suggestions, feel free to reach out:
-- **Email**: your_email@example.com
-- **GitHub**: [YourUsername](https://github.com/yourusername)
+- Provide hints for the selected word
 
